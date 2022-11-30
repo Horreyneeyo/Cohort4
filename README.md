@@ -1,2 +1,1 @@
-# Cohort4
-AI Saturdays Lagos Cohort 4 Repository.
+# AI Saturdays Lagos Cohort 4 Repository.
